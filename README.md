@@ -1,6 +1,10 @@
 
 # TimeBarChart
 ---
+
+## Showcase
+![Demo](https://github.com/aaronyoung001/timeBarChart/blob/master/demo.gif "Demo")
+
 ## Description
 -It's a demo project for practice
 
@@ -18,6 +22,5 @@ yarn run start  or npm run start
 ## How to build
 yarn run build   or  npm run build
 
-## Showcase
-![Demo](https://github.com/aaronyoung001/timeBarChart/blob/master/demo.gif "Demo")
+
 
