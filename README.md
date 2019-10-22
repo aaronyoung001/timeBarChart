@@ -1,3 +1,4 @@
+
 # TimeBarChart
 ---
 ## Description
@@ -16,3 +17,4 @@ yarn run build
 
 ## Showcase
 ![Demo](https://github.com/aaronyoung001/timeBarChart/blob/master/demo.gif "Demo")
+
