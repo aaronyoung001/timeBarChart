@@ -6,6 +6,8 @@
 
 -Use canvas to draw a bar chart,and animate it when time change
 
+-User can control the animation to play or pause
+
 
 ## How to install
 yarn install
