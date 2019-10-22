@@ -3,6 +3,7 @@
 ---
 ## Description
 -It's a demo project for practice
+
 -Use canvas to draw a bar chart,and animate it when time change
 
 
