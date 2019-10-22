@@ -10,13 +10,13 @@
 
 
 ## How to install
-yarn install
+yarn install  or  npm install
 
 ## How to start
-yarn run start
+yarn run start  or npm run start
 
 ## How to build
-yarn run build
+yarn run build   or  npm run build
 
 ## Showcase
 ![Demo](https://github.com/aaronyoung001/timeBarChart/blob/master/demo.gif "Demo")
