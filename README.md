@@ -2,8 +2,6 @@
 # TimeBarChart
 ---
 
-## Showcase
-![Demo](https://github.com/aaronyoung001/timeBarChart/blob/master/demo.gif "Demo")
 
 ## Description
 -It's a demo project for practice
